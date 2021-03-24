@@ -1,7 +1,7 @@
 # ascii_for_coding
-ASCII-ART for C/C++ comments. 
+ASCII-ART for C/C++ comments.
 
-> This package contains a set of ASCII_ART comments (C/C++ style) to make even routine tasks a little bit more endearing.
+> This package contains a set of ASCII_ART comments (C/C++ style) to make even routine tasks a little bit more endearing. `∩^ω^∩`
 
 SAMPLE #1
 ----
