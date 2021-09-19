@@ -1,4 +1,5 @@
-inp = open("stylish-capybara-v2", "r")
+inp = open("pushkin-capybara", "r")
 
 for line in inp:
-    print('message("' + line[3:-3] + '")')
+    if line != '\n':
+        print('message("' + line[10:-10] + '")')
